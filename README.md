@@ -20,10 +20,12 @@ Zur Nutzung der Skripte müssen die nachfolgenden Bibliotheken (s. requierements
 *Benötigte Bibliotheken:*
 - Pandas
 - Numpy
+- Nltk
 - Matplotlib 
 - os (Metadaten)
 - Python-docx
 - Spacy (für Anonymisierung)
+- re 
 - Wordcloud 
 - Textblob( Sentimentanalyse)
 
